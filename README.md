@@ -1,0 +1,2 @@
+# Restaurant-Management-System
+The Restaurant Management System it is in python (tkinter ) ,i.e It is an GUI based project which is been made using the modules of the tkinter. The project is basically a prototype for Restaurant Management System and it is also restricted among the staff - members only they can access it. This project is basically useful the staff members to calculate the total amount of the bill , and further also calculate the Return amount which is been given by customer to the Staff-members. 
